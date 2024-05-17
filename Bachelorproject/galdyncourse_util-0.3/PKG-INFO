@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: galdyncourse_util
+Version: 0.3
+Summary: Course tools for Galactic Structure and Dynamics
+Home-page: https://github.com/jobovy/GalacticStructureAndDynamics
+Author: Jo Bovy
+Author-email: bovy@astro.utoronto.ca
+License: MIT
+Description: Tools accompanying the notes on Galactic Structure and Dynamics by Jo Bovy
+Platform: UNKNOWN

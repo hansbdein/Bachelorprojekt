@@ -1,0 +1,15 @@
+name: galdyncourse
+channels:
+  - conda-forge
+dependencies:
+  - python=3.5
+  - ipython
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pyqt=4
+  - pandas
+  - pip
+  - conda-forge::astropy>=2
+  - conda-forge::galpy
